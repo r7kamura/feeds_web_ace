@@ -7,21 +7,12 @@ on:
 
 jobs:
   publish:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-ruby@v1
+      - uses: r7kamura/actions-weneedfeed@v0.1.0
         with:
-          ruby-version: '2.7.2'
-      - uses: actions/cache@v1
-        with:
-          path: gems
-          key: gems-v1-${{ runner.OS }}-${{ hashFiles('Gemfile.lock') }}
-          restore-keys: |
-            gems-v1-${{ runner.OS }}-${{ hashFiles('Gemfile.lock') }}
-            gems-v1-${{ runner.OS }}-
-      - run: bundle install --jobs=$(($(nproc)-1)) --path=gems
-      - run: bundle exec rake build
+          base_url: https://r7kamura.github.io/feeds_web_ace
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
