@@ -1,4 +1,4 @@
-xpath: &xpath
+selectors: &selectors
   item: //div[@class="mainContent"]//li[contains(@class, "table-view-cell") and not(contains(@class, "yudo"))]
   item_description: .//h3
   item_link: .//a/@href
@@ -8,250 +8,250 @@ pages:
   "1000002":
     title: 文豪ストレイドッグス わん！
     url: https://web-ace.jp/youngaceup/contents/1000002/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000003":
     title: 五十嵐くんと中原くん
     url: https://web-ace.jp/youngaceup/contents/1000003/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000010":
     title: 衛宮さんちの今日のごはん
     url: https://web-ace.jp/youngaceup/contents/1000010/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000012":
     title: 公爵令嬢の嗜み
     url: https://web-ace.jp/youngaceup/contents/1000012/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000013":
     title: 蜘蛛ですが、なにか？
     url: https://web-ace.jp/youngaceup/contents/1000013/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000014":
     title: マヌケなFPSプレイヤーが異世界へ落ちた場合
     url: https://web-ace.jp/youngaceup/contents/1000014/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000015":
     title: 賢者の孫
     url: https://web-ace.jp/youngaceup/contents/1000015/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000029":
     title: 服を着るならこんなふうに
     url: https://web-ace.jp/youngaceup/contents/1000029/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000046":
     title: 異世界建国記
     url: https://web-ace.jp/youngaceup/contents/1000046/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000048":
     title: 通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？
     url: https://web-ace.jp/youngaceup/contents/1000048/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000049":
     title: 回復術士のやり直し
     url: https://web-ace.jp/youngaceup/contents/1000049/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000052":
     title: うぽって SISTERS!!
     url: https://web-ace.jp/youngaceup/contents/1000052/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000060":
     title: 文豪ストレイドッグス外伝 綾辻行人 VS. 京極夏彦
     url: https://web-ace.jp/youngaceup/contents/1000060/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000064":
     title: パシリな僕と恋する番長さん
     url: https://web-ace.jp/youngaceup/contents/1000064/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000072":
     title: 文豪ストレイドッグス【武装探偵社YAUP支部】
     url: https://web-ace.jp/youngaceup/contents/1000072/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000075":
     title: 私の拳をうけとめて！
     url: https://web-ace.jp/youngaceup/contents/1000075/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000081":
     title: そらのおとしもの【リバイバル連載】
     url: https://web-ace.jp/youngaceup/contents/1000081/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000082":
     title: 文豪ストレイドッグス DEAD APPLE
     url: https://web-ace.jp/youngaceup/contents/1000082/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000084":
     title: 異世界落語
     url: https://web-ace.jp/youngaceup/contents/1000084/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000085":
     title: フェイト／育ステラ
     url: https://web-ace.jp/youngaceup/contents/1000085/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000086":
     title: ヘテロゲニア リンギスティコ ～異種族言語学入門～
     url: https://web-ace.jp/youngaceup/contents/1000086/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000091":
     title: 勇者、辞めます
     url: https://web-ace.jp/youngaceup/contents/1000091/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000105":
     title: 賢者の孫 Extra Story
     url: https://web-ace.jp/youngaceup/contents/1000105/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000107":
     title: 特殊性癖教室へようこそ
     url: https://web-ace.jp/youngaceup/contents/1000107/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000117":
     title: 世界最高の暗殺者、異世界貴族に転生する
     url: https://web-ace.jp/youngaceup/contents/1000117/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000122":
     title: 賢者の孫SP
     url: https://web-ace.jp/youngaceup/contents/1000122/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000123":
     title: 蜘蛛ですが、なにか？ 蜘蛛子四姉妹の日常
     url: https://web-ace.jp/youngaceup/contents/1000123/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000124":
     title: 帰ってください！ 阿久津さん
     url: https://web-ace.jp/youngaceup/contents/1000124/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000125":
     title: 針子の乙女
     url: https://web-ace.jp/youngaceup/contents/1000125/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000126":
     title: ゼロスキルの料理番
     url: https://web-ace.jp/youngaceup/contents/1000126/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000127":
     title: 北条うららの恋愛小説お書きなさい！
     url: https://web-ace.jp/youngaceup/contents/1000127/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000128":
     title: 悪役令嬢？ いいえ、極悪令嬢ですわ
     url: https://web-ace.jp/youngaceup/contents/1000128/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000129":
     title: 賢者の孫SS
     url: https://web-ace.jp/youngaceup/contents/1000129/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000132":
     title: 村づくりゲームのNPCが生身の人間としか思えない
     url: https://web-ace.jp/youngaceup/contents/1000132/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000133":
     title: マジカル☆エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
     url: https://web-ace.jp/youngaceup/contents/1000133/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000134":
     title: 年上エリート女騎士が僕の前でだけ可愛い
     url: https://web-ace.jp/youngaceup/contents/1000134/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000136":
     title: 三大陸英雄記
     url: https://web-ace.jp/youngaceup/contents/1000136/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000137":
     title: 最強出涸らし皇子の暗躍帝位争い
     url: https://web-ace.jp/youngaceup/contents/1000137/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000138":
     title: 麗子の風儀 悪役令嬢と呼ばれていますが、ただの貧乏娘です
     url: https://web-ace.jp/youngaceup/contents/1000138/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000139":
     title: 一億年ボタンを連打した俺は、気付いたら最強になっていた ～落第剣士の学院無双～
     url: https://web-ace.jp/youngaceup/contents/1000139/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000140":
     title: 旅ぎゃる！日本じゅーだんチャリきこー
     url: https://web-ace.jp/youngaceup/contents/1000140/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000141":
     title: 野球場でいただきます
     url: https://web-ace.jp/youngaceup/contents/1000141/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000142":
     title: 美木さん、大好きです！
     url: https://web-ace.jp/youngaceup/contents/1000142/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000143":
     title: 黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-
     url: https://web-ace.jp/youngaceup/contents/1000143/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000144":
     title: 君は死ねない灰かぶりの魔女
     url: https://web-ace.jp/youngaceup/contents/1000144/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000145":
     title: 書いて欲しけりゃコレを喰え
     url: https://web-ace.jp/youngaceup/contents/1000145/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000146":
     title: 家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。
     url: https://web-ace.jp/youngaceup/contents/1000146/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000147":
     title: ひぐらしのなく頃に 業
     url: https://web-ace.jp/youngaceup/contents/1000147/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000148":
     title: ねこへん ～ねこと編集～
     url: https://web-ace.jp/youngaceup/contents/1000148/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
   "1000149":
     title: マリー様をわからせたい！
     url: https://web-ace.jp/youngaceup/contents/1000149/
-    xpath:
-      <<: *xpath
+    selectors:
+      <<: *selectors
