@@ -1,6 +1,6 @@
 # weneedfeed-webace
 
-[![](https://github.com/r7kamura/feeds_web_ace/workflows/publish/badge.svg)](https://github.com/r7kamura/feeds_web_ace/actions?query=workflow%3Apublish)
+[![](https://github.com/r7kamura/weneedfeed-webace/workflows/publish/badge.svg)](https://github.com/r7kamura/weneedfeed-webace/actions?query=workflow%3Apublish)
 
 RSS feeds for each of the comics on [web-ace.jp](https://web-ace.jp/).
 

@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: r7kamura/weneedfeed-action@v0.2.0
         with:
-          base_url: https://r7kamura.github.io/feeds_web_ace
+          base_url: https://r7kamura.github.io/weneedfeed-webace
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
