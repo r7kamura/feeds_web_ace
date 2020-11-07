@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'weneedfeed'
+gem 'weneedfeed', git: 'https://github.com/r7kamura/weneedfeed'

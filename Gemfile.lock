@@ -1,3 +1,13 @@
+GIT
+  remote: https://github.com/r7kamura/weneedfeed
+  revision: bb3593c207da77ab5f5b82ec2d16fbf812881688
+  specs:
+    weneedfeed (0.1.0)
+      faraday
+      hibana
+      nokogiri
+      rack-capture (>= 0.4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -32,18 +42,13 @@ GEM
     transproc (1.1.1)
     url_mount (0.2.1)
       rack
-    weneedfeed (0.1.0)
-      faraday
-      hibana
-      nokogiri
-      rack-capture (>= 0.4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   rake
-  weneedfeed
+  weneedfeed!
 
 BUNDLED WITH
    2.1.4
