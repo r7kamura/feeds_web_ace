@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: r7kamura/weneedfeed-action@v0.3.0
+      - uses: r7kamura/weneedfeed-action@v0.3.1
         with:
           base_url: https://r7kamura.github.io/weneedfeed-webace
       - uses: peaceiris/actions-gh-pages@v3
