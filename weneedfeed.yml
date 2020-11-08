@@ -1,9 +1,9 @@
 selectors: &selectors
-  item: //div[@class="mainContent"]//li[contains(@class, "table-view-cell") and not(contains(@class, "yudo"))]
-  item_description: .//h3
-  item_link: .//a
-  item_time: .//span[@class="updated-date"]
-  item_title: .//p[@class="text-bold"]
+  item: div.mainContent li.table-view-cell:not(.yudo)
+  item_description: h3
+  item_link: a
+  item_time: span.updated-date
+  item_title: p.text-bold
 pages:
   "1000002":
     title: 文豪ストレイドッグス わん！
