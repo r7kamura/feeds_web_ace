@@ -205,3 +205,87 @@ pages:
     title: マリー様をわからせたい！
     url: https://web-ace.jp/youngaceup/contents/1000149/
     <<: *selectors
+  - id: "2000001"
+    title: Fate/Apocrypha
+    url: https://web-ace.jp/tmca/contents/2000001/
+    <<: *selectors
+  - id: "2000002"
+    title: Fate/Zero
+    url: https://web-ace.jp/tmca/contents/2000002/
+    <<: *selectors
+  - id: "2000003"
+    title: Fate/Grand Order -Epic of Remnant-  亜種特異点II 伝承地底世界 アガルタ アガルタの女
+    url: https://web-ace.jp/tmca/contents/2000003/
+    <<: *selectors
+  - id: "2000004"
+    title: フェイト／エクストラ CCC FoxTail
+    url: https://web-ace.jp/tmca/contents/2000004/
+    <<: *selectors
+  - id: "2000005"
+    title: Fate/stay night
+    url: https://web-ace.jp/tmca/contents/2000005/
+    <<: *selectors
+  - id: "2000006"
+    title: Fate/stay night [Heaven’s Feel]
+    url: https://web-ace.jp/tmca/contents/2000006/
+    <<: *selectors
+  - id: "2000007"
+    title: MELTY BLOOD
+    url: https://web-ace.jp/tmca/contents/2000007/
+    <<: *selectors
+  - id: "2000009"
+    title: TYPE-MOON学園 ちびちゅき！
+    url: https://web-ace.jp/tmca/contents/2000009/
+    <<: *selectors
+  - id: "2000010"
+    title: フェイト／エクストラ
+    url: https://web-ace.jp/tmca/contents/2000010/
+    <<: *selectors
+  - id: "2000012"
+    title: ロード・エルメロイII世の事件簿
+    url: https://web-ace.jp/tmca/contents/2000012/
+    <<: *selectors
+  - id: "2000013"
+    title: 真月譚 月姫
+    url: https://web-ace.jp/tmca/contents/2000013/
+    <<: *selectors
+  - id: "2000014"
+    title: 帝都聖杯奇譚 Fate/type Redline
+    url: https://web-ace.jp/tmca/contents/2000014/
+    <<: *selectors
+  - id: "2000015"
+    title: Fate/Grand Order -Epic of Remnant- 亜種特異点EX 深海電脳楽土 SE.RA.PH
+    url: https://web-ace.jp/tmca/contents/2000015/
+    <<: *selectors
+  - id: "2000016"
+    title: Fate/Grand Order 英霊食聞録
+    url: https://web-ace.jp/tmca/contents/2000016/
+    <<: *selectors
+  - id: "2000017"
+    title: Fate/Grand Order フロム ロストベルト
+    url: https://web-ace.jp/tmca/contents/2000017/
+    <<: *selectors
+  - id: "2000022"
+    title: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!
+    url: https://web-ace.jp/tmca/contents/2000022/
+    <<: *selectors
+  - id: "2000026"
+    title: CANAAN
+    url: https://web-ace.jp/tmca/contents/2000026/
+    <<: *selectors
+  - id: "2000027"
+    title: Fate/Grand Order 藤丸立香はわからない
+    url: https://web-ace.jp/tmca/contents/2000027/
+    <<: *selectors
+  - id: "2000028"
+    title: コハエースEX
+    url: https://web-ace.jp/tmca/contents/2000028/
+    <<: *selectors
+  - id: "2000030"
+    title: Fate/Grand Order コミックアラカルト PLUS! SP 対決編！
+    url: https://web-ace.jp/tmca/contents/2000030/
+    <<: *selectors
+  - id: "2000031"
+    title: コハエースXP
+    url: https://web-ace.jp/tmca/contents/2000031/
+    <<: *selectors
