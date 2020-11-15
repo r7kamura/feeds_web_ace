@@ -9,7 +9,6 @@ RSS feeds for each of the comics on [web-ace.jp](https://web-ace.jp/).
 
 - All feeds are daily updated at 00:00 JST (15:00 GMT).
 - [weneedfeed](https://github.com/r7kamura/weneedfeed) is used to generate RSS feeds from [weneedfeed.yml](weneedfeed.yml).
-- This project is trying to cover all the live comics on web-ace.jp, but probably not all of them are currently done.
 
 ## Contributing
 
