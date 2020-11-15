@@ -5,203 +5,203 @@ selectors: &selectors
   item_time_selector: span.updated-date
   item_title_selector: p.text-bold
 pages:
-  "1000002":
+  - id: 1000002
     <<: *selectors
     title: 文豪ストレイドッグス わん！
     url: https://web-ace.jp/youngaceup/contents/1000002/
-  "1000003":
+  - id: 1000003
     <<: *selectors
     title: 五十嵐くんと中原くん
     url: https://web-ace.jp/youngaceup/contents/1000003/
-  "1000010":
+  - id: 1000010
     <<: *selectors
     title: 衛宮さんちの今日のごはん
     url: https://web-ace.jp/youngaceup/contents/1000010/
-  "1000012":
+  - id: 1000012
     <<: *selectors
     title: 公爵令嬢の嗜み
     url: https://web-ace.jp/youngaceup/contents/1000012/
-  "1000013":
+  - id: 1000013
     <<: *selectors
     title: 蜘蛛ですが、なにか？
     url: https://web-ace.jp/youngaceup/contents/1000013/
-  "1000014":
+  - id: 1000014
     <<: *selectors
     title: マヌケなFPSプレイヤーが異世界へ落ちた場合
     url: https://web-ace.jp/youngaceup/contents/1000014/
-  "1000015":
+  - id: 1000015
     <<: *selectors
     title: 賢者の孫
     url: https://web-ace.jp/youngaceup/contents/1000015/
-  "1000029":
+  - id: 1000029
     <<: *selectors
     title: 服を着るならこんなふうに
     url: https://web-ace.jp/youngaceup/contents/1000029/
-  "1000046":
+  - id: 1000046
     <<: *selectors
     title: 異世界建国記
     url: https://web-ace.jp/youngaceup/contents/1000046/
-  "1000048":
+  - id: 1000048
     <<: *selectors
     title: 通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？
     url: https://web-ace.jp/youngaceup/contents/1000048/
-  "1000049":
+  - id: 1000049
     <<: *selectors
     title: 回復術士のやり直し
     url: https://web-ace.jp/youngaceup/contents/1000049/
-  "1000052":
+  - id: 1000052
     <<: *selectors
     title: うぽって SISTERS!!
     url: https://web-ace.jp/youngaceup/contents/1000052/
-  "1000060":
+  - id: 1000060
     <<: *selectors
     title: 文豪ストレイドッグス外伝 綾辻行人 VS. 京極夏彦
     url: https://web-ace.jp/youngaceup/contents/1000060/
-  "1000064":
+  - id: 1000064
     <<: *selectors
     title: パシリな僕と恋する番長さん
     url: https://web-ace.jp/youngaceup/contents/1000064/
-  "1000072":
+  - id: 1000072
     <<: *selectors
     title: 文豪ストレイドッグス【武装探偵社YAUP支部】
     url: https://web-ace.jp/youngaceup/contents/1000072/
-  "1000075":
+  - id: 1000075
     <<: *selectors
     title: 私の拳をうけとめて！
     url: https://web-ace.jp/youngaceup/contents/1000075/
-  "1000081":
+  - id: 1000081
     <<: *selectors
     title: そらのおとしもの【リバイバル連載】
     url: https://web-ace.jp/youngaceup/contents/1000081/
-  "1000082":
+  - id: 1000082
     <<: *selectors
     title: 文豪ストレイドッグス DEAD APPLE
     url: https://web-ace.jp/youngaceup/contents/1000082/
-  "1000084":
+  - id: 1000084
     <<: *selectors
     title: 異世界落語
     url: https://web-ace.jp/youngaceup/contents/1000084/
-  "1000085":
+  - id: 1000085
     <<: *selectors
     title: フェイト／育ステラ
     url: https://web-ace.jp/youngaceup/contents/1000085/
-  "1000086":
+  - id: 1000086
     <<: *selectors
     title: ヘテロゲニア リンギスティコ ～異種族言語学入門～
     url: https://web-ace.jp/youngaceup/contents/1000086/
-  "1000091":
+  - id: 1000091
     <<: *selectors
     title: 勇者、辞めます
     url: https://web-ace.jp/youngaceup/contents/1000091/
-  "1000105":
+  - id: 1000105
     <<: *selectors
     title: 賢者の孫 Extra Story
     url: https://web-ace.jp/youngaceup/contents/1000105/
-  "1000107":
+  - id: 1000107
     <<: *selectors
     title: 特殊性癖教室へようこそ
     url: https://web-ace.jp/youngaceup/contents/1000107/
-  "1000117":
+  - id: 1000117
     <<: *selectors
     title: 世界最高の暗殺者、異世界貴族に転生する
     url: https://web-ace.jp/youngaceup/contents/1000117/
-  "1000122":
+  - id: 1000122
     <<: *selectors
     title: 賢者の孫SP
     url: https://web-ace.jp/youngaceup/contents/1000122/
-  "1000123":
+  - id: 1000123
     <<: *selectors
     title: 蜘蛛ですが、なにか？ 蜘蛛子四姉妹の日常
     url: https://web-ace.jp/youngaceup/contents/1000123/
-  "1000124":
+  - id: 1000124
     <<: *selectors
     title: 帰ってください！ 阿久津さん
     url: https://web-ace.jp/youngaceup/contents/1000124/
-  "1000125":
+  - id: 1000125
     <<: *selectors
     title: 針子の乙女
     url: https://web-ace.jp/youngaceup/contents/1000125/
-  "1000126":
+  - id: 1000126
     <<: *selectors
     title: ゼロスキルの料理番
     url: https://web-ace.jp/youngaceup/contents/1000126/
-  "1000127":
+  - id: 1000127
     <<: *selectors
     title: 北条うららの恋愛小説お書きなさい！
     url: https://web-ace.jp/youngaceup/contents/1000127/
-  "1000128":
+  - id: 1000128
     <<: *selectors
     title: 悪役令嬢？ いいえ、極悪令嬢ですわ
     url: https://web-ace.jp/youngaceup/contents/1000128/
-  "1000129":
+  - id: 1000129
     <<: *selectors
     title: 賢者の孫SS
     url: https://web-ace.jp/youngaceup/contents/1000129/
-  "1000132":
+  - id: 1000132
     <<: *selectors
     title: 村づくりゲームのNPCが生身の人間としか思えない
     url: https://web-ace.jp/youngaceup/contents/1000132/
-  "1000133":
+  - id: 1000133
     <<: *selectors
     title: マジカル☆エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
     url: https://web-ace.jp/youngaceup/contents/1000133/
-  "1000134":
+  - id: 1000134
     <<: *selectors
     title: 年上エリート女騎士が僕の前でだけ可愛い
     url: https://web-ace.jp/youngaceup/contents/1000134/
-  "1000136":
+  - id: 1000136
     <<: *selectors
     title: 三大陸英雄記
     url: https://web-ace.jp/youngaceup/contents/1000136/
-  "1000137":
+  - id: 1000137
     <<: *selectors
     title: 最強出涸らし皇子の暗躍帝位争い
     url: https://web-ace.jp/youngaceup/contents/1000137/
-  "1000138":
+  - id: 1000138
     <<: *selectors
     title: 麗子の風儀 悪役令嬢と呼ばれていますが、ただの貧乏娘です
     url: https://web-ace.jp/youngaceup/contents/1000138/
-  "1000139":
+  - id: 1000139
     <<: *selectors
     title: 一億年ボタンを連打した俺は、気付いたら最強になっていた ～落第剣士の学院無双～
     url: https://web-ace.jp/youngaceup/contents/1000139/
-  "1000140":
+  - id: 1000140
     <<: *selectors
     title: 旅ぎゃる！日本じゅーだんチャリきこー
     url: https://web-ace.jp/youngaceup/contents/1000140/
-  "1000141":
+  - id: 1000141
     <<: *selectors
     title: 野球場でいただきます
     url: https://web-ace.jp/youngaceup/contents/1000141/
-  "1000142":
+  - id: 1000142
     <<: *selectors
     title: 美木さん、大好きです！
     url: https://web-ace.jp/youngaceup/contents/1000142/
-  "1000143":
+  - id: 1000143
     <<: *selectors
     title: 黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-
     url: https://web-ace.jp/youngaceup/contents/1000143/
-  "1000144":
+  - id: 1000144
     <<: *selectors
     title: 君は死ねない灰かぶりの魔女
     url: https://web-ace.jp/youngaceup/contents/1000144/
-  "1000145":
+  - id: 1000145
     <<: *selectors
     title: 書いて欲しけりゃコレを喰え
     url: https://web-ace.jp/youngaceup/contents/1000145/
-  "1000146":
+  - id: 1000146
     <<: *selectors
     title: 家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。
     url: https://web-ace.jp/youngaceup/contents/1000146/
-  "1000147":
+  - id: 1000147
     <<: *selectors
     title: ひぐらしのなく頃に 業
     url: https://web-ace.jp/youngaceup/contents/1000147/
-  "1000148":
+  - id: 1000148
     <<: *selectors
     title: ねこへん ～ねこと編集～
     url: https://web-ace.jp/youngaceup/contents/1000148/
-  "1000149":
+  - id: 1000149
     <<: *selectors
     title: マリー様をわからせたい！
     url: https://web-ace.jp/youngaceup/contents/1000149/
