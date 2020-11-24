@@ -1,5 +1,5 @@
 selectors: &selectors
-  item_selector: div.mainContent li.table-view-cell:not(.yudo)
+  item_selector: div.mainContent li.table-view-cell:not(.yudo):has(p.text-bold)
   item_description_selector: h3
   item_link_selector: a
   item_time_selector: span.updated-date
