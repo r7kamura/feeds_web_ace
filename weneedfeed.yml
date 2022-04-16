@@ -4,6 +4,9 @@ selectors: &selectors
   item_link_selector: a
   item_time_selector: span.updated-date
   item_title_selector: p.text-bold
+
+title: webエース
+
 pages:
   - id: "1000002"
     title: 文豪ストレイドッグス わん！
